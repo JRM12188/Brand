@@ -1,1 +1,3 @@
 # Brand
+
+Data Engineer with a certificate in data visualization and analytics from the University of Minnesota and a master’s in business administration with a minor in project management from Capella University. Skilled project manager with a track record of driving short- and long-term goals through the development and successful execution of 100+ projects in line with strategic objectives. Proven leadership capabilities in project control, talent development, and short- and long-term business operations. Skilled in Python, Pandas, SQL, and data visualization tools such as JavaScript and D3.js. Finds great satisfaction in extracting insights from data that inform decision-making and drive growth.
